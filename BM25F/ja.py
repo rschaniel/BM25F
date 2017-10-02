@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from janome.tokenizer import Tokenizer as OriginalTokenizer
 from re import sub
 import unicodedata
